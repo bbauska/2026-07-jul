@@ -1,2 +1,2 @@
-# 2026-jul
-Calendar for July, 2026.
+# Calendar-2025-Jul
+Calendar for July, 2025.
