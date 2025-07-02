@@ -1,5 +1,6 @@
-<!-- css/styles.css of 2026-jul.bauska.org  -->
-<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ css/styles.css of 2026-07-jul making 2026-jul.bauska.org ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
@@ -23,10 +24,9 @@ h1 {
   letter-spacing:3px;
   padding-right:50px;
   padding-top:150px;
-  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  text-shadow:-1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   vertical-align:top;
 }
-/* padding-bottom:150px; */
 .copyright-notice {
   color:#fff;
   font-size:65%;
@@ -67,9 +67,8 @@ ul {
   padding:5px;
   margin:5px 0;
 }
-<!-- added 5-13-25 7:06pm -->
 .container {
-  background-color: white;
+  background-color: #fff;  /* white */
   border: 2px solid #dcdcdc;
   padding: 20px;
   border-radius: 10px;
@@ -79,7 +78,7 @@ ul {
   font-family: Helvetica, Arial, sans-serif;
 }
 a {
-  color: royalblue;
+  color: #0000ff;  /* pure (or mostly pure) blue */
   text-decoration: none;
   position: relative;
   padding-right:50px;  /* 6-23-2025 */
@@ -91,20 +90,23 @@ a::after {
   display: block;
   width: 0;
   height: 2px;
-  background: #990000;  /* crimson */
+  background: #990000;  /* dark red */
   transition: width 0.3s;
   position: absolute;
   bottom: -2px;
   left: 0;
 }
 a:hover {
-  color: #990000;  /* crimson */
+  color: #990000;  /* dark red */
 }
 a:hover::after {
   width: 88%;
 }
 
 <!-- World, National & International Days -->
+.canada-day {
+  background-color:#f5e1d2;  /* light grayish orange */
+}
 .canada {
   background-color:#f5e1d2;  /* light grayish orange */
 }
