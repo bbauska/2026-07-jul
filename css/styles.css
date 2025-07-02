@@ -106,7 +106,7 @@ a:hover::after {
 
 <!-- World, National & International Days -->
 .canada {
-  background-color:#e8e193;  /* very soft yellow */
+  background-color:#f5e1d2;  /* light grayish orange */
 }
 .ufo {
   background-color:#c2e7e7;  /* light grayish cyan */
@@ -126,14 +126,29 @@ a:hover::after {
 .chocolate {
   background-color:#9aff9a;  /* pale lime green */
 }
+.brians-bd {
+  background-color:#d2f5e1  /* light grayish cyan - lime green */
+}
 .cow-appreciation {
   background-color:#e6cdff;  /* very pale violet */
+}
+.natl-sugar {
+  background-color:#f5e1d2  /* light grayish orange */
 }
 .french-fry {
   background-color:#ffb267;  /* very light orange */
 }
+.seven-eleven {
+  background-color:#e7e8fa;  /* very light blue */
+}
+.all-american-pet-photo {
+  background-color:#ffb267;  /* very light orange */
+}
 .population {
   background-color:#ffcc67;  /* very light orange */
+}
+.natl-pecan-pie {
+  background-color:#e7e8fa;  /* very light blue */
 }
 .bastille {
   background-color:#ff9a9a;  /* pale red [pink tone] */
@@ -144,8 +159,8 @@ a:hover::after {
 .youth-skills {
   background-color:#98fb98;  /* very soft lime green */
 }
-.natl-hotdog {
-  background-color:#a6f4ff;  /* pale cyan */
+.world-snake {
+  background-color:#9ab3ff;  /* pale blue */
 }
 .natl-tattoo {
   background-color:#ffc0cb;  /* very pale red (pink) */
@@ -155,6 +170,9 @@ a:hover::after {
 }
 .nelson-mandela {
   background-color:#d3d3d3;  /* light gray */
+}
+.natl-icecream {
+  background-color:#ccff9a;  /* pale green */
 }
 .columbian {
   background-color:#9aff9a;  /* pale lime green */
@@ -179,6 +197,9 @@ a:hover::after {
 }
 .intl-dayoffriendship {
   background-color:#ff7e6d;  /* very light red */
+}
+.natl-cheesecake {
+  background-color:#b4ffb4;  /* pale lime green */
 }
 .natl-avocado {
   background-color:#afffad;  /* pale lime green */
