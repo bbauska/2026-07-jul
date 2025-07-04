@@ -1,6 +1,4 @@
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ css/styles.css of 2026-07-jul making 2026-jul.bauska.org ~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+/* css/styles.css of 2026-07-jul making 2026-jul.bauska.org */
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
@@ -103,7 +101,7 @@ a:hover::after {
   width: 88%;
 }
 
-<!-- World, National & International Days -->
+/* World, National & International Days */
 .canada-day {
   background-color:#f5e1d2;  /* light grayish orange */
 }
